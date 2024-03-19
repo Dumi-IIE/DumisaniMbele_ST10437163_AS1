@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">revision</string>
+    <string name="appHeader">Multiplication Table</string>
+    <string name="numbers">numbers</string>
+    <string name="textHint">Enter a number</string>
+    <string name="buttonText">Multiply</string>
+</resources>
